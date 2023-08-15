@@ -21,7 +21,7 @@ Sobre mim:
 
 * Tenho 29 anos
 * Estou concluindo o curso Full Stack Web Development na Trybe
-* Sou formada em Engenharia Civil,
+* Sou formada em Engenharia Civil
 * Falo inglês fluente
 * 🌍  Moro no Brasil
 * ✉️  Você pode entrar em contato comigo pelo e-mail: [larissacarneiro2@hotmail.com](mailto:larissacarneiro2@hotmail.com)
