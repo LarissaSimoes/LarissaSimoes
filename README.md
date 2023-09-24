@@ -20,7 +20,7 @@ Desenvolvedora Web Full Stack
 Sobre mim:
 
 * Tenho 29 anos
-* Estou no último módulo (módulo focado em Java) do curso Full Stack Web Development na Trybe
+* Estou cursando o último módulo (módulo focado em Java) do curso Full Stack Web Development na Trybe
 * Sou formada em Engenharia Civil
 * Falo inglês fluente
 * 🌍  Moro no Brasil
