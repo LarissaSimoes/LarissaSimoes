@@ -11,7 +11,7 @@ I'm 29 years old, I'm completing the Full Stack Web Development course at Trybe,
 
 ### Skills -->
 
-Oi 👋 Meu nome é Larissa Simões
+Olá! Meu nome é Larissa Simões
 ==================================
 
 Desenvolvedora Web Full Stack
