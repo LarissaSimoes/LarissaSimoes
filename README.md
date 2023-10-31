@@ -46,7 +46,7 @@ Sobre mim:
 
 <p align="left"> <a href="https://www.github.com/LarissaSimoes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="60" height="50" /></a> <a href="https://www.linkedin.com/in/dev-larissa-carneiro-simoes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="60" height="50" /></a></p>
 
-==================================
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **English**:
 
