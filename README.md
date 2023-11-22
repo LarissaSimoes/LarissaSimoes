@@ -59,7 +59,7 @@ Full Stack Web Developer
 About me:
 
 * I'm 29 years old
-* I'm taking the last module (module focused on Java) of the Full Stack Web Development course at Trybe
+* I'm currently in the final module (focused on Java) of the Full Stack Web Development course at Trybe
 * I have a degree in Civil Engineering
 * I speak fluent english
 * 🌍  I live in Brazil
